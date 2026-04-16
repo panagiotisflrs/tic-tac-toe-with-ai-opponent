@@ -12,4 +12,4 @@ A Python-based Tic Tac Toe game with a graphical user interface (gui) and the op
 
 ## How to run
 ```bash
-python ttt-.py
+python ttt_ai_and_gui.py
